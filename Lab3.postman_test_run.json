@@ -1,0 +1,25 @@
+{
+	"id": "41103e0b-d9e8-466a-893d-30c0786709a6",
+	"name": "Lab3",
+	"timestamp": "2024-11-14T11:24:35.206Z",
+	"collection_id": "38587261-dd23bd58-a750-48f3-845d-cf87674b8273",
+	"folder_id": 0,
+	"environment_id": "38587261-30bac37a-f076-40ea-9cf9-c5924c4722bd",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "error",
+	"startedAt": "2024-11-14T11:24:34.299Z",
+	"totalFail": 0,
+	"results": [],
+	"count": 1,
+	"totalTime": 0,
+	"collection": {
+		"requests": [
+			{
+				"id": "04d3c781-047a-4320-915d-b0054c5434ab",
+				"method": "GET"
+			}
+		]
+	}
+}
